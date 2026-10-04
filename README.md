@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nizamuin07/leetcode-dsa-journey/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/nizamuin07/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nizamuin07/leetcode-dsa-journey/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nizamuin07/leetcode-dsa-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nizamuin07/leetcode-dsa-journey/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/nizamuin07/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nizamuin07/leetcode-dsa-journey/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nizamuin07/leetcode-dsa-journey/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/nizamuin07/leetcode-dsa-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nizamuin07/leetcode-dsa-journey/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nizamuin07/leetcode-dsa-journey/tree/master/0169-majority-element) |
